@@ -11,8 +11,8 @@ pygame.display.set_caption('mickey and yuchen')
 
 
 #load images
-sun_img = pygame.image.load('img/sun.jpg')
-bg_img  = pygame.image.load('img/sky.jpg')
+sun_img = pygame.image.load('fligther/img/sun.jpg')
+bg_img  = pygame.image.load('fligther/img/sky.jpg')
 
 run = True
 while run:
